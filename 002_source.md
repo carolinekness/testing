@@ -6,7 +6,7 @@ number: 002
 
 # The Source
 
-MY SOURCES part 2
+MY SOURCES 
 <!-- <iframe width="420" height="425" src="https://www.youtube.com/watch?v=EmSrQCDsMv4&t=1282s&ab_channel=BillRaymond" frameborder="0" ></iframe> -->
 
 {% assign media = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'source'" | where_exp: "item", "item.media_type == 'image'" %}
