@@ -7,5 +7,4 @@ number: 003
 # About this Source
 This source is an image of the Kremlin.[^1]
 
-[^1]: first footnote 
-[^2]: I copied this text from this [website](https://www.lipsum.com/feed/html) 
+[^1]: I copied this text from this [website](https://www.lipsum.com/feed/html) 
